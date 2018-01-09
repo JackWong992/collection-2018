@@ -44,7 +44,7 @@ function makeEnter($node){  //等待进入节点
 
 
 
-
+//比较容易写的代码（没有优化的）
 // $('.images > img:nth-child(1)').addClass('current')
 // $('.images > img:nth-child(2)').addClass('enter')
 // $('.images > img:nth-child(3)').addClass('enter')
